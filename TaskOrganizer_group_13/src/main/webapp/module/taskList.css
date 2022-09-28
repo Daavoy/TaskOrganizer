@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+
+.wrapper{
+	display:flex;
+	flex-direction:column;
+	margin:5px;
+}
+.btnWrapper,
+.formWrapper{
+	display:flex;
+	flex-direction:column;
+	gap:15px;
+	
+}
+
+.textWrapper{
+	display:flex;
+	flex-direction:row;
+	gap:30px;
+}
+.wrapping{
+	display:flex;
+	flex-direction:column;
+	gap:15px;
+}
+.btn{
+	width:30px;
+	height:30px;
+}
+
